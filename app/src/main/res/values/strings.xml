@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">天天气</string>
+    <string name="search_hint">请输入城市编码或在下面选择</string>
+</resources>
